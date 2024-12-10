@@ -1,2 +1,2 @@
-# pprojeto-de-banco-de-dados
+# projeto-de-banco-de-dados
 Projeto da disciplina de Banco de Dados
